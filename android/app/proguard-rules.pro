@@ -1,0 +1,1 @@
+-keep class com.duke.package.bravo_fcm.** { *; }

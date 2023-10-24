@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308188720559",
+    "project_id": "sharphwaykyamal",
+    "storage_bucket": "sharphwaykyamal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308188720559:android:ea4a4989f0d3083cc4d35a",
+        "android_client_info": {
+          "package_name": "com.example.test_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308188720559-lsn44la2vb3hbhhpk46qaoc78k2e4lj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD9VserBc0LTFuTBkEd5n5VgYCmuyUrT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308188720559-lsn44la2vb3hbhhpk46qaoc78k2e4lj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
